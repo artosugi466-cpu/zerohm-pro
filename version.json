@@ -4,8 +4,8 @@
   "url": "https://github.com/artosugi466-cpu/zerohm-pro/releases/download/v1.0.0/zerohm_1.bin",
   "changelog": [
     "Versi awal rilis resmi",
-    "Tampilan OTA screen diperbaiki",
-    "Format tegangan diubah ke 1 desimal",
-    "Hint PSU Monitor tidak lagi terpotong"
+    "Tampilan layar OTA diperbaiki",
+    "Format tegangan diubah menjadi 1 desimal",
+    "Petunjuk PSU Monitor tidak lagi terpotong"
   ]
 }
